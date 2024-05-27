@@ -1,0 +1,33 @@
+C:\Users\Наталья\Source\Repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Наталья\Source\Repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Наталья\Source\Repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Наталья\Source\Repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Наталья\Source\Repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Наталья\Source\Repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Наталья\Source\Repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Наталья\Desktop\git hub\pract-8-vnedren\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Наталья\Desktop\git hub\pract-8-vnedren\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Наталья\Desktop\git hub\pract-8-vnedren\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Наталья\Desktop\git hub\pract-8-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Наталья\Desktop\git hub\pract-8-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Наталья\Desktop\git hub\pract-8-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Наталья\Desktop\git hub\pract-8-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Наталья\Desktop\git hub\pract-8-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Наталья\Desktop\git hub\pract-8-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Desktop\git hub\pract-8-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Наталья\Desktop\git hub\pract-8-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Наталья\Desktop\git hub\pract-10-vnedren\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Наталья\Desktop\git hub\pract-10-vnedren\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Наталья\Desktop\git hub\pract-10-vnedren\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Наталья\Desktop\git hub\pract-10-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Наталья\Desktop\git hub\pract-10-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Наталья\Desktop\git hub\pract-10-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Наталья\Desktop\git hub\pract-10-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Наталья\Desktop\git hub\pract-10-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Наталья\Desktop\git hub\pract-10-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Desktop\git hub\pract-10-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Наталья\Desktop\git hub\pract-10-vnedren\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
